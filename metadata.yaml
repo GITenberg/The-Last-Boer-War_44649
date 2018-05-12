@@ -1,0 +1,31 @@
+_repo: The-Last-Boer-War_44649
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44649-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Rider
+    - Haggard, Henry Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: ''
+gutenberg_issued: '2014-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44649'
+  lccn: 05019279
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transvaal (South Africa) -- History -- War of 1880-1881'
+- !lcc 'DT'
+title: The Last Boer War
+url: http://www.gutenberg.org/ebooks/44649
